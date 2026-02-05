@@ -140,7 +140,13 @@ GLUT / FreeGLUT installed
 
 Compile & Run
 
-    g++ main.cpp -lGL -lGLU -lglut -o tower_defense./tower_defense
+    g++ 
+    main.cpp 
+    -lGL 
+    -lGLU 
+    -lglut 
+    -o 
+    tower_defense./tower_defense
 
 
 (On Windows, link opengl32, glu32, freeglut accordingly.)
